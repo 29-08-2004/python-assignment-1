@@ -1,6 +1,4 @@
-1.) What makes NumPy.shape() different from 
-NumPy.size()?
-• NumPy.shape() :- NumPy arrays have an attribute 
+ NumPy.shape() :- NumPy arrays have an attribute 
 called shape that returns a tuple with each index 
 having the number of corresponding elements
 • NumPy.size() :- size() Function in Python. The size 
